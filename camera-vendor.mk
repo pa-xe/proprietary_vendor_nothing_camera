@@ -14,5 +14,5 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/camera/proprietary/system_ext/etc/permissions/com.nothing.feature.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.nothing.feature.xml
 
 PRODUCT_PACKAGES += \
-    NothingExperience \
-    NTCamera
+    NTCamera \
+    NothingExperience
